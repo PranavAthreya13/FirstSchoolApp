@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+    padding-left: 600px;
+    background-color:yellow;
+}
+h2{
+    color: darkmagenta;
+    padding-left: 600px;
+    background-color: deeppink;
+}
+h3{
+    color: black;
+    padding-left: 600px;
+    background-color: firebrick;
+}
+h4{
+    color: blueviolet;
+    padding-left: 600px;
+    background-color: crimson;
+}
+a{
+    color: darkblue;
+}
+body{
+    background-color: darkorange;
+}
